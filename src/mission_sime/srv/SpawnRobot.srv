@@ -1,0 +1,7 @@
+# Service pour faire apparaître un robot
+string name
+float32 x
+float32 y
+---
+bool success
+string message

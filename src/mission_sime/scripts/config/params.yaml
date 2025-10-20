@@ -1,0 +1,18 @@
+mission_sime:
+  ros__parameters:
+    # Paramètres R2-D2
+    r2d2_initial_x: 5.0
+    r2d2_initial_y: 5.0
+    r2d2_speed: 2.0
+    pen_colors: ["red", "green", "blue", "yellow", "purple"]
+    
+    # Paramètres C-3PO
+    follow_distance: 2.0
+    elimination_range: 1.5
+    
+    # Paramètres ennemis
+    enemy_spawn_rate: 5.0  # secondes
+    max_enemies: 5
+    
+    # Paramètres mission
+    mission_timeout: 300.0  # secondes

@@ -1,0 +1,5 @@
+# Service pour éliminer un robot
+string name
+---
+bool success
+string message
