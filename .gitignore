@@ -1,0 +1,23 @@
+# Fichiers de compilation ROS2
+build/
+install/
+log/
+
+# Fichiers de développement Python
+*.pyc
+__pycache__/
+*.swp
+*.swo
+
+# Environnements de développement
+.vscode/
+.idea/
+*.code-workspace
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Documentation générée
+docs/_build/
+*.tmp
